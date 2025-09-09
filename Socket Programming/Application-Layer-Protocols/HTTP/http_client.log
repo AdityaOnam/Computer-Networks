@@ -1,0 +1,15 @@
+2025-09-09 10:41:41,429 - INFO - Response 200: {
+  "message": "GET request received successfully",
+  "params": {
+    "name": "Aditya",
+    "task": "http-client"
+  }
+}
+
+2025-09-09 10:41:41,456 - INFO - Response 201: {
+  "data": {
+    "date": "29-08-2025",
+    "objective": "application layer"
+  },
+  "message": "POST request received successfully"
+}

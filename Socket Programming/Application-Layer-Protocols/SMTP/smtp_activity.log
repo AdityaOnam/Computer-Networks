@@ -1,0 +1,4 @@
+2025-09-09 11:13:45,331 - INFO - Connecting to SMTP server smtp.gmail.com:587
+2025-09-09 11:13:46,493 - INFO - Started TLS encryption
+2025-09-09 11:13:47,225 - INFO - Logged in successfully
+2025-09-09 11:13:48,761 - INFO - Email sent successfully

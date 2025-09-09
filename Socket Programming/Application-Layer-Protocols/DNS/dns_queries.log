@@ -1,0 +1,19 @@
+2025-09-09 12:44:43,090 - INFO - IP of www.google.com: 216.239.38.120
+2025-09-09 12:44:43,105 - INFO - A record for www.google.com: 216.239.38.120
+2025-09-09 12:44:43,291 - ERROR - MX lookup failed for www.google.com: The DNS response does not contain an answer to the question: www.google.com. IN MX
+2025-09-09 12:44:43,301 - INFO - CNAME record for www.google.com: forcesafesearch.google.com.
+2025-09-09 12:45:21,054 - INFO - IP of www.amazon.com: 13.224.164.197
+2025-09-09 12:45:21,173 - INFO - A record for www.amazon.com: 13.224.164.197
+2025-09-09 12:45:21,262 - ERROR - MX lookup failed for www.amazon.com: The DNS response does not contain an answer to the question: www.amazon.com. IN MX
+2025-09-09 12:45:21,269 - INFO - CNAME record for www.amazon.com: tp.47cf2c8c9-frontier.amazon.com.
+2025-09-09 12:49:36,587 - INFO - IP of www.abc.com: 108.158.245.116
+2025-09-09 12:49:36,893 - INFO - A record for www.abc.com: 108.158.245.79
+2025-09-09 12:49:36,893 - INFO - A record for www.abc.com: 108.158.245.95
+2025-09-09 12:49:36,893 - INFO - A record for www.abc.com: 108.158.245.116
+2025-09-09 12:49:36,894 - INFO - A record for www.abc.com: 108.158.245.59
+2025-09-09 12:49:36,992 - ERROR - MX lookup failed for www.abc.com: The DNS response does not contain an answer to the question: www.abc.com. IN MX
+2025-09-09 12:49:36,997 - INFO - CNAME record for www.abc.com: d2iwv1xxkqpmiz.cloudfront.net.
+2025-09-09 12:50:39,635 - ERROR - IP resolution failed for nonexistentdomain12345.com: [Errno 11001] getaddrinfo failed
+2025-09-09 12:50:40,187 - ERROR - A lookup failed for nonexistentdomain12345.com: The DNS query name does not exist: nonexistentdomain12345.com.
+2025-09-09 12:50:40,200 - ERROR - MX lookup failed for nonexistentdomain12345.com: The DNS query name does not exist: nonexistentdomain12345.com.
+2025-09-09 12:50:40,207 - ERROR - CNAME lookup failed for nonexistentdomain12345.com: The DNS query name does not exist: nonexistentdomain12345.com.
