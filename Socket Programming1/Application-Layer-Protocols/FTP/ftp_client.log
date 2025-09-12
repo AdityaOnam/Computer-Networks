@@ -1,0 +1,5 @@
+2025-09-09 12:35:25,880 - INFO - Connected to FTP server at 192.168.56.129
+2025-09-09 12:35:25,885 - INFO - Listed directory contents
+2025-09-09 12:35:25,891 - INFO - File 'upload.txt' uploaded to 'upload/upload.txt'
+2025-09-09 12:35:25,895 - INFO - File 'upload/serverfile.txt' downloaded as 'downloaded.txt'
+2025-09-09 12:35:25,896 - INFO - Connection closed
